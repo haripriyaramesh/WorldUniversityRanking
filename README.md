@@ -59,4 +59,6 @@ Here's an overview of the analyses conducted in this project:
 - **Dataset Source**: [QS World University Rankings 2017–2022](https://www.kaggle.com/datasets/padhmam/qs-world-university-rankings-2017-2022)
 - This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 - Author: Haripriya Ramesh
-- Acknowledgements: Special thanks to Kaggle for providing the dataset.
+- Acknowledgements: Thanks to Udacity Datascientist Nanodegree course work, from which some snippets of code/ technique and inspiration for techniques used have been used in this project.
+Special thanks to Kaggle for providing the dataset.
+
