@@ -1,9 +1,9 @@
-# WorldUniversityRanking
-A Data-Driven Journey into the World's Top Universities
-
 # QS World University Rankings Analysis
+A Data-Driven Journey into the World's Top Universities!
 
 Welcome to the World University Rankings Analysis repository. This project explores and analyzes data from the QS World University Rankings spanning the years 2017 to 2022. We investigate various aspects of university rankings, international student preferences, research output, and the comparison between public and private universities.
+
+Please refer to [Medium Blog](https://medium.com/@haripriya.ramesh1996/a-data-driven-journey-into-the-worlds-top-universities-638ec49bc707) on the same for detailed explanation of findings.
 
 ## Table of Contents
 - [Installations](#installations)
@@ -45,6 +45,9 @@ Here's an overview of the analyses conducted in this project:
 
 4. **Public vs. Private Universities**
    - We compared public and private universities in terms of rankings, research output, and other factors.
+
+Please refer to [Medium Blog](https://medium.com/@haripriya.ramesh1996/a-data-driven-journey-into-the-worlds-top-universities-638ec49bc707) on the same for detailed explanation of findings.
+
 
 ## File Descriptions
 - `WorldUniversityRanking.ipynb`: Jupyter Notebook containing the code and analysis for this project.
