@@ -63,5 +63,5 @@ Please refer to [Medium Blog](https://medium.com/@haripriya.ramesh1996/a-data-dr
 - This project is licensed under the MIT License. See LICENSE file for details.
 - Author: Haripriya Ramesh
 - Acknowledgements: Thanks to Udacity Datascientist Nanodegree course work, from which some snippets of code/ technique and inspiration for techniques used have been used in this project.
-Special thanks to Kaggle for providing the dataset.
+Special thanks to Kaggle for providing the dataset and providing inspiration for questions and analysis. 
 
